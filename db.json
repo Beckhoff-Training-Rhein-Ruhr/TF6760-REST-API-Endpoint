@@ -1,0 +1,27 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "TwinCAT TF6760 Training Samples"
+      },
+      {
+        "id": 2,
+        "title": "If you can read this, the function works"
+      },
+      {
+        "id": 3,
+        "title": "Here comes some sample data"
+      },
+      {
+        "id": 4,
+        "title": "TwinCAT3 is awesome"
+      },
+      {
+        "id": 5,
+        "title": "With functions you can extend the features of TwinCAT3"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
